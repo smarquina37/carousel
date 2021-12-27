@@ -6,6 +6,7 @@ body {
 .carousel {
   max-width: 600px;
   position: relative;
+  padding-top: 40px;
 }
 
 .carousel .carousel-item,
