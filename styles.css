@@ -13,7 +13,7 @@ h1 {
 .carousel {
   max-width: 600px;
   position: relative;
-  padding-top: 40px;
+  padding-top: 20px;
 }
 
 .carousel .carousel-item,
@@ -34,7 +34,7 @@ h1 {
 
 .carousel .carousel-caption {
   position: absolute;
-  top: 7%;
+  top: 5%;
   left: 3%;
   z-index: 20;
   color: white;
@@ -52,7 +52,8 @@ h1 {
 
 .carousel .carousel-actions button {
   border-radius: 50px;
-  background-color: white;
+  background: white;
+  opacity: 0.8;
   border: 0;
   font-size: 16px;
   font-weight: bold;
